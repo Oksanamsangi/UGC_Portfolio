@@ -379,6 +379,15 @@ body {
 .portfolio-scroll {
   -ms-overflow-style: none;
   scrollbar-width: none;
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+}
+
+.portfolio-scroll video {
+  width: 250px; /* або 300px */
+  height: auto;
+  flex-shrink: 0;
 }
 
 .portfolio-list {
@@ -802,7 +811,7 @@ body {
   .portfolio-wrapper {
     padding: 0 20px;
   }
-  
+
   .portfolio-item {
     width: 140px;
   }
