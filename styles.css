@@ -385,7 +385,6 @@ body {
 }
 
 .portfolio-scroll video {
-  width: 250px; /* або 300px */
   height: auto;
   flex-shrink: 0;
 }
@@ -398,7 +397,7 @@ body {
 
 .portfolio-item {
   position: relative;
-  width: 240px;
+  width: 260px;
   flex-shrink: 0;
   overflow: hidden;
   border-radius: 16px;
@@ -451,8 +450,8 @@ body {
 .screen {
   position: absolute;
   top: 5.5%;
-  left: 10%;
-  width: 80%;
+  left: 7%;
+  width: 86%;
   height: 87%;
   overflow: hidden;
   border-radius: 32px;
