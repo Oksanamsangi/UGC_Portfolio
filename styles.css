@@ -398,7 +398,7 @@ body {
 
 .portfolio-item {
   position: relative;
-  width: 180px;
+  width: 240px;
   flex-shrink: 0;
   overflow: hidden;
   border-radius: 16px;
@@ -451,8 +451,8 @@ body {
 .screen {
   position: absolute;
   top: 5.5%;
-  left: 22.3%;
-  width: 55%;
+  left: 10%;
+  width: 80%;
   height: 87%;
   overflow: hidden;
   border-radius: 32px;
