@@ -397,7 +397,8 @@ body {
 
 .portfolio-item {
   position: relative;
-  width: 260px;
+  width: 180px;
+  height: 350px;
   flex-shrink: 0;
   overflow: hidden;
   border-radius: 16px;
